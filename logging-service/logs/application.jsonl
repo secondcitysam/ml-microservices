@@ -1,0 +1,1 @@
+{"timestamp": "2026-11-24T08:41:53.376649+00:00", "service": "prediction", "level": "INFO", "message": "Iris prediction completed", "metadata": {"class_id": 0, "species": "setosa"}}
